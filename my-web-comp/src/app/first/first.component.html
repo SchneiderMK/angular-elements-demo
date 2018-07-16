@@ -1,0 +1,7 @@
+<input type="text" [(ngModel)]="filter" (input)="onFilterChange()">
+<div *ngFor="let person of persons">
+  First Name: {{person.firstName}}
+  <br>
+  Surename: {{person.sureName}}
+  <p></p>
+</div>
