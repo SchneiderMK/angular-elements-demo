@@ -7,9 +7,9 @@ This project demonstrates the usage of @angular/elements to reproduce a Bug in t
 + my-web-component (the angular web-component)
 
 ## Run Web-Component
-navigate to my-web-component
-npm install
-ng serve
+navigate to my-web-component  
+npm install  
+ng serve  
 
 The Web-Component is hosted in the index.html inside the my-web-component projekt. Everything is working as expected
 
