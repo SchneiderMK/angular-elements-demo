@@ -11,19 +11,20 @@ navigate to my-web-component
 + npm install  
 + ng serve  
 
-The Web-Component is hosted in the index.html inside the my-web-component projekt. Everything is working as expected
+The Web-Component is hosted in the index.html, inside the my-web-component project. Everything is working as expected (Filtering, List-Refresh).
 
 ## Bundle
 navigate to my-web-component  
 + npm run bundle
 
-The Web-Component is bundled into a script file and copied into the shell app.
+The Web-Component is bundled into a script file and copied into the shell app (.
 
 ## Run Shell
 navigate to shell  
 + npm install
 + ng serve
 
+## Test Cases
 Try the filter outside the app and inside the app.
 The Web-Component, hosted outside of Angular, works as expected.
 
